@@ -1,7 +1,8 @@
 # freschers
-Training for newcomer PhDs by Prof. Barbara Fresch.
+Training repository for new PhD students in the [Theoretical Chemistry Group](https://wwwdisc.chimica.unipd.it/theochem/pubblica/) of the University of Padova.
 
-Authors: F. Gallina and M. Bruschi.
+Original authors: Federico Gallina and Matteo Bruschi.
+Supervisor: Prof. Barbara Fresch.
 
 ## How to download the repository
 We advise using [Conda](https://www.anaconda.com/products/individual) environments for a clean setup.
