@@ -2,6 +2,7 @@
 Training repository for new PhD students in the [Theoretical Chemistry Group](https://wwwdisc.chimica.unipd.it/theochem/pubblica/) of the University of Padova.
 
 Original authors: Federico Gallina and Matteo Bruschi.
+
 Supervisor: Prof. Barbara Fresch.
 
 ## How to download the repository
